@@ -1,0 +1,13 @@
+﻿  喷涂房辊子表面检测.cpp
+e:\visual studio projects\喷涂房辊子表面检测\packages\opencv3.3.0.0.1\build\native\include\opencv2\core\mat.hpp(1964): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+e:\visual studio projects\喷涂房辊子表面检测\packages\opencv3.3.0.0.1\build\native\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+e:\visual studio projects\喷涂房辊子表面检测\packages\opencv3.3.0.0.1\build\native\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+e:\visual studio projects\喷涂房辊子表面检测\packages\opencv3.3.0.0.1\build\native\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+e:\visual studio projects\喷涂房辊子表面检测\喷涂房辊子表面检测\喷涂房辊子表面检测.cpp(120): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\visual studio projects\喷涂房辊子表面检测\喷涂房辊子表面检测\喷涂房辊子表面检测.cpp(121): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\visual studio projects\喷涂房辊子表面检测\喷涂房辊子表面检测\喷涂房辊子表面检测.cpp(122): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\visual studio projects\喷涂房辊子表面检测\喷涂房辊子表面检测\喷涂房辊子表面检测.cpp(123): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\visual studio projects\喷涂房辊子表面检测\喷涂房辊子表面检测\喷涂房辊子表面检测.cpp(298): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\visual studio projects\喷涂房辊子表面检测\喷涂房辊子表面检测\喷涂房辊子表面检测.cpp(366): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\visual studio projects\喷涂房辊子表面检测\喷涂房辊子表面检测\喷涂房辊子表面检测.cpp(372): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  喷涂房辊子表面检测.vcxproj -> E:\Visual Studio projects\喷涂房辊子表面检测\x64\Debug\喷涂房辊子表面检测.exe

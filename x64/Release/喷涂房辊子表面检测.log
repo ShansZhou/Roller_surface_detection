@@ -1,0 +1,15 @@
+﻿  喷涂房辊子表面检测.cpp
+e:\visual studio projects\喷涂房辊子表面检测\packages\opencv3.3.0.0.1\build\native\include\opencv2\core\mat.hpp(1964): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+e:\visual studio projects\喷涂房辊子表面检测\packages\opencv3.3.0.0.1\build\native\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+e:\visual studio projects\喷涂房辊子表面检测\packages\opencv3.3.0.0.1\build\native\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+e:\visual studio projects\喷涂房辊子表面检测\packages\opencv3.3.0.0.1\build\native\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+e:\visual studio projects\喷涂房辊子表面检测\喷涂房辊子表面检测\喷涂房辊子表面检测.cpp(117): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\visual studio projects\喷涂房辊子表面检测\喷涂房辊子表面检测\喷涂房辊子表面检测.cpp(118): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\visual studio projects\喷涂房辊子表面检测\喷涂房辊子表面检测\喷涂房辊子表面检测.cpp(119): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\visual studio projects\喷涂房辊子表面检测\喷涂房辊子表面检测\喷涂房辊子表面检测.cpp(120): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  1 of 127 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  喷涂房辊子表面检测.vcxproj -> E:\Visual Studio projects\喷涂房辊子表面检测\x64\Release\喷涂房辊子表面检测.exe

@@ -1,0 +1,2 @@
+﻿  喷涂房辊子表面检测.cpp
+opencv_world341.lib(opencv_world341.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'
